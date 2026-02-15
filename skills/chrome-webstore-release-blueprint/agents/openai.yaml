@@ -1,0 +1,4 @@
+interface:
+  display_name: "CWS Release Blueprint"
+  short_description: "Guide users through CWS release automation setup."
+  default_prompt: "Use $chrome-webstore-release-blueprint to help me set up Chrome Web Store version-based publishing end-to-end in this repo."
