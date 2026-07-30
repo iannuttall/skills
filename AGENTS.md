@@ -1,4 +1,10 @@
-# Working on png2svg
+# Working on Ian's agent skills
+
+Every public skill lives at `skills/<name>/`. Keep each installed folder
+self-contained. Supporting tests, examples and private work belong outside
+the skill folder.
+
+## png2svg
 
 This repo's product is the **skill** in `skills/png2svg/`. Everything else
 exists to build, test and document it.
